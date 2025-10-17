@@ -85,3 +85,5 @@ description: List of Standard Contract Addresses
 [router-forwarder-mainnet]: https://explorer.oasis.io/mainnet/sapphire/address/0x21c1e74caadf990e237920d5515955a024031109
 [router-bridge-mainnet]: https://explorer.oasis.io/mainnet/sapphire/address/0x01b4ce0d48ce91eb6bcaf5db33870c65d641b894
 [router-gateway-testnet]: https://explorer.oasis.io/testnet/sapphire/address/0xfbE6D1e711CC2BC241dfa682CBbFF6D68bf62e67
+
+<!-- Auto-update: 2025-10-17T12:07:28.421571 -->
